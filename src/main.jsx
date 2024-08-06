@@ -7,12 +7,12 @@ import { createBrowserRouter,RouterProvider } from 'react-router-dom'
 import { Categories } from './components/categories/Categories.jsx'
 const router=createBrowserRouter([
   {
-  path:'/',
+  path:'/Quiz-game/',
   element:<App/>,
   errorElement: '',
   },
   {
-    path:'/categories',
+    path:'/Quiz-game/categories',
     element:<Categories/>
   },
 ])

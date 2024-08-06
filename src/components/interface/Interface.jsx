@@ -17,7 +17,7 @@ export const Interface=()=>{
                     <img src={brain} alt="" style={{width:'150px',height:'150px',marginLeft:'100px'}}/>
                 </div>
             </div>
-            <a className='startButton' href='/categories'>Get Started ...</a>
+            <a className='startButton' href='/Quiz-game/categories'>Get Started ...</a>
             <p style={{color:'var(--text-color)',borderBottom:'1px solid #8b000099'}}>We have many categories of qustions like :</p>
             <div className="buttomContainer">
                 <p>Computer Science</p>

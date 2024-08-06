@@ -25,7 +25,7 @@ export const Categories=()=>{
             </div>
         </div>
         <div className='submitButton'>
-            <Link to="/categories/" className='submit'>Let's Go</Link>
+            <Link to="" className='submit'>Let's Go</Link>
         </div>
     </>
     )
